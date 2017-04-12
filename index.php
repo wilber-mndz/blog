@@ -9,6 +9,9 @@
 	<title>Método de Asignacion</title>
 </head>
 <body>
+	<header>
+		<h1>header</h1>
+	</header>
 	<div class="contenedor-formulario">
 	<div class="wrap">
 		<!--Formulario Ingresa el numero de filas y de columnas-->
@@ -34,5 +37,6 @@
 		
 	</div>
 <script src="js/formulario.js"></script>
+
 </body>
 </html>
