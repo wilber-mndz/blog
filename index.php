@@ -14,7 +14,7 @@
 		<!--Formulario Ingresa el numero de filas y de columnas-->
 		<form action="llenar_matriz.php" class="formulario" name="formulario_registro" method="POST">
 			<div>
-				<h1>Metodo de asignacion</h1>
+				<h1>Metodo de asignacion abandonado</h1>
 				<h2>Ingrese numero de filas y columnas</h2>
 			</div>
 			<div>
